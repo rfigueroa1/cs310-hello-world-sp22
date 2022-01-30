@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Ruri Figueroa
  */
 
 public class Class2 {
